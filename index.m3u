@@ -1,83 +1,33 @@
-#EXTM3U 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5NSWG5VD/IMG-20240825-131055.png" group-title="𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠", Star Flix Official
-https://t.me/Star_Flix_Official
-#EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_bangla.png", ATN Bangla
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=atn_bangla
-#EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_news.png", ATN News
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=atn_news
-#EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/al_jazeera.png" group-title="JADOO TV", Al Jazeera English HD
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=al_jazeera
-#EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/ananda_tv.png", Ananda TV
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=ananda_tv
-#EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/asian_tv.png" group-title="JADOO TV", Asian Tv
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=asian_tv
-#EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/bbc_lifestyle.png" group-title="JADOO TV", BBC Lifestyle 
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=bbc_lifestyle
-#EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/bbc_world.png" group-title="JADOO TV", BBC World
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=bbc_world
-#EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/btv_world.png" group-title="JADOO TV", BTV World
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=btv_world
-#EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjcXGir4Im1CdWyd65VVsv1_xf7HA8dB-D5g&usqp=CAU" group-title="JADOO TV", Sangshad TV
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=sangsad_tv
-#EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_tv.png" group-title="JADOO TV", Bangla TV
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=bangla_tv
-#EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/bijoy_tv.png" group-title="JADOO TV", Bijoy TV
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=bijoy_tv
-#EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/boishakhi_tv.png" group-title="JADOO TV", Boishakhi TV
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=boishakhi_tv
-#EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/cnn.png" group-title="JADOO TV", CNN
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=cnn
-#EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_24.png" group-title="JADOO TV", Channel 24
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=channel_24
-#EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_9.png" group-title="JADOO TV", Channel 9
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=channel_9
-#EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_i.png" group-title="JADOO TV", Channel I
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=channel_i
-#EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/dbc_news.png" group-title="JADOO TV", DBC News
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=dbc_news
-#EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/deepto_tv.png" group-title="JADOO TV", Deepto TV
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=deepto_tv
-#EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsfIHs7s0y6UiqDu37qpG-RnpWK5Kx_Mvk564W8PIhDA&s" group-title="JADOO TV", Desh TV 
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=desh_tv
-#EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/duronto_tv.png" group-title="JADOO TV", Duronto TV 
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=duronto_tv
-#EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/ekattor_tv.png" group-title="JADOO TV", Ekattor TV
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=ekattor_tv
-#EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/ekushey_tv.png" group-title="JADOO TV", Ekushey TV
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=ekushey_tv
-#EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/gaan_bangla.png" group-title="JADOO TV", Gaan Bangla 
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=gaan_bangla
-#EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/gazi_tv.png" group-title="JADOO TV", Gazi TV 
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=gazi_tv_hd
-#EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/independent_tv.png" group-title="JADOO TV", Independent TV
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=independent_tv
-#EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/jamuna_tv.png" group-title="JADOO TV", Jamuna TV
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=jamuna_tv
-#EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/maasranga.png" group-title="JADOO TV", Massranga
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=massranga
-#EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/ntv.png" group-title="JADOO TV", NTV
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=ntv
-#EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/nagorik_tv.png" group-title="JADOO TV", Nagorik TV
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=nagorik_tv
-#EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/news_24_hd.png" group-title="JADOO TV", News 24 HD
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=news_24_hd
-#EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/nexus_tv.png" group-title="JADOO TV", Nexus TV
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=nexus_tv
-#EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/quran_tv.png" group-title="JADOO TV", Quran TV
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=quran_tv
-#EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/rtv.png" group-title="JADOO TV", RTV
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=rtv
-#EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/sa_tv.png" group-title="JADOO TV", SATV
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=sa_tv
-#EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/somoy_news.png" group-title="JADOO TV", Somoy TV
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=somoy_news
-#EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png" group-title="JADOO TV", T Sports HD
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=t_sports
-#EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11970-j9luk5ag-v1/imageContent-11970-j9luk5ag-m1.png" group-title="JADOO TV", Zee Bangla 
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=zee_bangla
-#EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_cinema.png" group-title="JADOO TV", Zee Cinema 
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=zee_cinema_hd
-#EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_tv.png" group-title="JADOO TV", Zee TV
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=zee_tv
-#EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/9x_jalwa.png" group-title="JADOO TV", 9x Jalwa
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=9x_jalwa
+#EXTINF:-1 group-title="𝐌𝐮𝐬𝐢𝐜 𝐁𝐃 𝐂𝐚𝐛𝐥𝐞™" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpFIG_d1kOsnsq0jJhfaqRhJFtYq0SHNeyRobNcX_8L0W1ah0z78Ip8oNhG3Obm7WJcksffp0r-Lrz5cGz7ltA8LwkJMmE7AJQflIQfD8RKIxZYfwM3esh5gG1s7lk-Qd_tnw_Hi9PqOIiAXMKEc10wZ3GPPmNz0yBW4BU0UMkQxs4hu74fNcUm4K0qBA/s1280/IMG-20241016-WA0023.jpg",𝐁𝐃 𝐂𝐚𝐛𝐥𝐞™
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/6b3796d5-6570-4516-a19a-c5f1f8c32757/0.m3u8
+
+#EXTINF:-1 group-title="𝐌𝐮𝐬𝐢𝐜 𝐁𝐃 𝐂𝐚𝐛𝐥𝐞™" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYm59ue-iosBthGcKmk0Sb5XwzN3xNefx7VOj_sMWlh9wdwIAa8lw9FBk&s=10",9𝙭𝙢
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/6b3796d5-6570-4516-a19a-c5f1f8c32757/0.m3u8
+
+#EXTINF:-1 group-title="𝐌𝐮𝐬𝐢𝐜 𝐁𝐃 𝐂𝐚𝐛𝐥𝐞™" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWPGztkJ6kR3TRMJGUELHJOUkAiavBA6Nynhuhn47L9GfrExTeOOkip835&s=10",𝐌𝐀𝐒𝐓𝐢𝐢𝐢
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/b874de29-8b42-4077-8879-146898d160d6/0.m3u8
+
+#EXTINF:-1 group-title="𝐌𝐮𝐬𝐢𝐜 𝐁𝐃 𝐂𝐚𝐛𝐥𝐞™" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVMzRyy4X53yRua37YhOaHHZTEgPCeqTmH6pkeUQLeFiS36Ajpq74yuZo_&s=10",𝐘𝐑𝐅 𝐌𝐮𝐬𝐢𝐜
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/a26d93fc-2246-4897-95af-8370f7973794/4.m3u8
+
+#EXTINF:-1 group-title="𝐌𝐮𝐬𝐢𝐜 𝐁𝐃 𝐂𝐚𝐛𝐥𝐞™" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBTPSPv__NnM3C2KnGy1ym8qaVVQwnf9l2QyxOCUtvpVLjBcPPeOy5UGE&s=10",𝐒𝐡𝐞𝐦𝐚𝐫𝐨𝐨 𝐅𝐢𝐥𝐦𝐢𝐠𝐚𝐚𝐧𝐞
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/dfbf6045-f42d-45a4-86e9-4e75e56c8970/0.m3u8
+
+#EXTINF:-1 group-title="𝐌𝐮𝐬𝐢𝐜 𝐁𝐃 𝐂𝐚𝐛𝐥𝐞™" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs0qAPltngiWLwDjoGzo-YFuPThjs_mjN35ItKlyfO4nx2yHioFtclHHo&s=10",𝟗𝐱 𝐉𝐚𝐥𝐰𝐚
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/d55fa652-d8b6-4d9d-aee6-3b48b36a22aa/0.m3u8
+
+#EXTINF:-1 group-title="𝐌𝐮𝐬𝐢𝐜 𝐁𝐃 𝐂𝐚𝐛𝐥𝐞™" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEFjXAP-C5UDxOEJwxiDMLTwEdQQ_fEQ1mkw&usqp=CAU",𝐒𝐚𝐠𝐚 𝐌𝐮𝐬𝐢𝐜
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/163d64ab-7d61-4e0c-9278-676191166191/4.m3u8
+
+#EXTINF:-1 group-title="𝐌𝐮𝐬𝐢𝐜 𝐁𝐃 𝐂𝐚𝐛𝐥𝐞™" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmeioTjJzo8naFd-wBu99F_pNp9SLjeWpEFDoQRhFPzA_aUzyyO8L4ATE&s=10",𝐏𝐮𝐧𝐣𝐚𝐛𝐢 𝐇𝐢𝐭𝐬
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/a3ce3669-49d4-469e-aa68-daa03382e0be/0.m3u8
+
+#EXTINF:-1 group-title="𝐌𝐮𝐬𝐢𝐜 𝐁𝐃 𝐂𝐚𝐛𝐥𝐞™" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxBRxpRJWbhejPv5lJVeWq7JwWsnSPxgZDnS-LCu2HwIFeVTIPOyhQ-j4&s=10",𝐁𝐚𝐥𝐥𝐞 𝐁𝐚𝐥𝐥𝐞
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/59f65143-e8f9-453e-bf2b-fd9d702b58a9/0.m3u8
+
+#EXTINF:-1 group-title="𝐌𝐮𝐬𝐢𝐜 𝐁𝐃 𝐂𝐚𝐛𝐥𝐞™" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoqwQ_xFQDI2cuqZDq9s64OUMhwgdmwUeZZA&usqp=CAU",𝐃𝐚𝐛𝐚𝐧𝐠 भोजपुरी
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/dabangg/82c4adc5-fd8e-4080-ad63-096e5bc24ba0/0.m3u8
+
+#EXTINF:-1 group-title="𝐌𝐮𝐬𝐢𝐜 𝐁𝐃 𝐂𝐚𝐛𝐥𝐞™" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/300/-/2024-09-20/2409202751000.jpg",𝐒𝐚𝐠𝐚 𝐌𝐮𝐬𝐢𝐜 𝐇𝐚𝐫𝐲𝐚𝐧𝐯𝐢
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music-haryanvi/a2873bf0-38cd-4994-9a6b-016355dd7076/4.m3u8
+
